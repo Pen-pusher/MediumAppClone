@@ -1,5 +1,5 @@
 # MediumAppClone
-Medium Clone built with Next.js, Tailwind CSS &amp; Sanity
+Medium Clone built with Next.js, Tailwind CSS &amp; Sanity,vercel
 # Overview
 Medium Clone website built with Next.js, Tailwind CSS, Sanity & Typescript and also by using Firebase v9, React hooks, react Context... ... All used to build a friendly user experience.
 
